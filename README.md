@@ -1,1 +1,15 @@
 # AI_CHATBOT
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : CHALLAPALLI RAJESH
+
+**INTERN ID** : CT6WDS2710
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (8)](https://github.com/user-attachments/assets/22864b10-4ede-41ce-9a60-d8961db6ede0)
